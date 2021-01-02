@@ -1,0 +1,7 @@
+D:\C# lessons\Weather\bin\Debug\Weather.exe.config
+D:\C# lessons\Weather\bin\Debug\Weather.exe
+D:\C# lessons\Weather\bin\Debug\Weather.pdb
+D:\C# lessons\Weather\obj\Debug\Weather.csprojAssemblyReference.cache
+D:\C# lessons\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+D:\C# lessons\Weather\obj\Debug\Weather.exe
+D:\C# lessons\Weather\obj\Debug\Weather.pdb
